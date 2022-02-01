@@ -1,2 +1,0 @@
-C:\COLTEC - PROG\AEDS\Conceitos\Árvores\Prefix Trie\Debug\Prefix Trie.exe
-C:\COLTEC - PROG\AEDS\Conceitos\Árvores\Prefix Trie\Debug\Prefix Trie.pdb
